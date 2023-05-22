@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Chris! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+- <b>PowerShell</b>
+  - [FIM (File Integrity Monitor)](https://github.com/chrisilod/PowerShell-Integrity-FIM)
+
+
 
 <!--
-**Chrisilod/Chrisilod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
